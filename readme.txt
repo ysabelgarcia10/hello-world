@@ -1,3 +1,3 @@
 This is the readme text.
 
-This is the second line.
+This is the second line...
